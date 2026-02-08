@@ -1,6 +1,5 @@
 {
-  "allowed_ips": 
-  [
+  "allowed_ips": [
     "26.57.80.132"
   ]
 }
